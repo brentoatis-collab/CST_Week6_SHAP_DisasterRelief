@@ -169,19 +169,19 @@ Vibe coding transformed development into an **iterative analytical process**, wh
 ## Project Structure
 
 CST_Week6_SHAP_DisasterRelief/
-│
-├── main.py
-├── README.md
-├── requirements.txt
-├── claude_log.md
-│
-├── outputs/
-│   ├── training_rewards.png
-│   ├── policy_value_heatmap.png
-│   ├── shap_summary.png
-│
-└── slides/
-    └── Week6_Final_Presentation.pptx
+
+- main.py
+- README.md
+- requirements.txt
+- claude_log.md
+
+- outputs/
+   - training_rewards.png
+   - policy_value_heatmap.png
+   - shap_summary.png
+
+- slides/
+   - Week6 Assignment SHAP_Presentation.pptx
 
 ---
 
